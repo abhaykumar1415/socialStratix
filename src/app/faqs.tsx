@@ -36,7 +36,7 @@ export function Faqs() {
 			<div className='container max-w-6xl mx-auto'>
 				<div className='text-center'>
 					<Typography variant='h1' color='blue-gray' className='mb-4' placeholder={undefined}>
-						Frequently asked questions
+						Frequently Asked Questions
 					</Typography>
 					<Typography variant='lead' className='mx-auto mb-24 !text-gray-500 lg:w-3/5' placeholder={undefined}>
 						A lot of people don&apos;t appreciate the moment until it&apos;s passed. I&apos;m not trying my hardest, and
