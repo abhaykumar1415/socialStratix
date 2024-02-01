@@ -38,7 +38,7 @@ export function Features() {
 					Your Social Engagement Platform
 				</Typography>
 				<Typography variant='h1' color='blue-gray' className='mb-4' placeholder={undefined}>
-					One Platform, all games!
+					One Platform, All Games!
 				</Typography>
 				<Typography
 					variant='lead'

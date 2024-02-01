@@ -61,7 +61,7 @@ export function Navbar() {
 			<div className='container mx-auto flex items-center justify-between'>
 				<Typography
 					as='a'
-					href='https://www.material-tailwind.com'
+					href='#'
 					target='_blank'
 					variant='h6'
 					color={isScrolling ? 'gray' : 'white'}
